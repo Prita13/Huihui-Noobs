@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>RESTAURANT</title>
-        <script src="JAVA.js"></script>
+        <script src="java.js"></script>
         <meta chardet="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
